@@ -1,0 +1,1 @@
+Este modelo foi desenvolvido como base para os alunos completar o design e tornar a interface mais " simpática". è uma demostração de pssibilidade de games quandos e usa o java iscript para  gerar html.
